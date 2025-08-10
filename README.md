@@ -1,3 +1,3 @@
 # github-demo
-this my first git repository
+this is my first git repository
 Author-Yogesh Khadka
